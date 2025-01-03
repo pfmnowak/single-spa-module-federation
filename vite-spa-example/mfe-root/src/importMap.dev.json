@@ -1,0 +1,5 @@
+{
+  "imports": {
+    "@labOverview/reactMfeExample": "http://localhost:4101/src/spa.tsx"
+  }
+}
