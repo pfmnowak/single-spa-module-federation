@@ -1,6 +1,7 @@
 import "./App.css";
 import reactLogo from "./assets/react.svg";
 import Button from "./components/Button";
+import "./index.css";
 import viteLogo from "/vite.svg";
 
 function App() {
