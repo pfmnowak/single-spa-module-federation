@@ -4,12 +4,12 @@ import { registerApplication, start } from "single-spa";
 import App from "./App.tsx";
 import "./index.css";
 
-const reactMfeModule = "@labOverview/reactMfeExample";
+const reactMfeModule = "@viteSingleSpa/reactMfeExample";
 
 registerApplication({
   name: "reactMfeExample",
   app: () => import(/* @vite-ignore */ reactMfeModule),
-  activeWhen: "/mifea",
+  activeWhen: "/",
 });
 start();
 

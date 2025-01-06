@@ -1,5 +1,5 @@
 {
   "imports": {
-    "@labOverview/reactMfeExample": "http://localhost:4101/spa.js"
+    "@viteSingleSpa/reactMfeExample": "http://localhost:4101/spa.js"
   }
 }

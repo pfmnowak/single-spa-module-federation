@@ -12,4 +12,5 @@ export default defineConfig({
       spaEntryPoints: "src/spa.tsx",
     }),
   ],
+  base: "http://localhost:4101",
 });
